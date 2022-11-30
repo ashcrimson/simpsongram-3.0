@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+.bg-white {
+    --bs-bg-opacity: 1;
+    background-color: yellow !important;
+}
